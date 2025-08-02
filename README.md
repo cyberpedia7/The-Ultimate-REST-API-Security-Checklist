@@ -1,6 +1,6 @@
 # Securing REST APIs - The Ultimate Security Checklist
 
-Welcome to the official **Cyberpedia** guide for securing RESTful APIs with comprehensive security best practices.  
+Welcome to the official **[Cyberpedia](https://cyberpedia.site/)** guide for securing RESTful APIs with comprehensive security best practices.  
 _Empowering you to protect your digital assets with clear, actionable steps._
 
 ---
@@ -60,4 +60,4 @@ If you have questions or need assistance, please open an issue in this repositor
 
 ---
 
-© 2025 Cyberpedia. All Rights Reserved.
+© 2025 [Cyberpedia](https://cyberpedia.site/). All Rights Reserved.

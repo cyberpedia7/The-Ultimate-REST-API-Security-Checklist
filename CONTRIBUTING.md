@@ -1,6 +1,6 @@
 # Contributing to The Ultimate REST API Security Checklist
 
-Thank you for your interest in contributing to Cyberpedia's REST API Security Checklist! This document provides guidelines for contributing to this project.
+Thank you for your interest in contributing to [Cyberpedia](https://cyberpedia.site/)'s REST API Security Checklist! This document provides guidelines for contributing to this project.
 
 ## 🤝 How to Contribute
 
